@@ -8,4 +8,6 @@ cli utility for pentest automatization written in python and c
 - report generator (with cve links, recommendations and etc)
 - ftp/ssh without password scanner 
 
-## 
+## license 
+
+Distributed under the MIT License. See [LICENSE](LICENSE) file for details.
