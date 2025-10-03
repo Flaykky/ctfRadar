@@ -1,5 +1,5 @@
 # ctfRadar
-cli utility for pentest automatization written in python and c
+cli utility for pentesting automatization written in python and c
 
 ## features 
 - css scanner + tester
