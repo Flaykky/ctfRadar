@@ -1,7 +1,7 @@
 # ctfRadar
 cli utility for pentesting automatization written in python and c
 
-## features 
+## Features 
 - css scanner + tester
 - sql injections scanner 
 - servers software scanner 
@@ -9,6 +9,6 @@ cli utility for pentesting automatization written in python and c
 - report generator (with cve links, recommendations and etc)
 - ftp/ssh without password scanner 
 
-## license 
+## Licence
 
 Distributed under the MIT License. See [LICENSE](LICENSE) file for details.
